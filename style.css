@@ -90,6 +90,10 @@ header #search-note input{
     color: #228B22;
 }
 
+.note-list ul li:first-child i.fa-pencil-square-o{
+    margin-right: 4px;
+}
+
 .note-list ul li p i.fa-times {
     color: #DC143C;
 }
