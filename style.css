@@ -84,9 +84,12 @@ header #search-note input{
     margin-left: 5px;
 }
 
+
+
 .note-list ul li p i.fa-pencil-square-o{
     color: #228B22;
 }
+
 .note-list ul li p i.fa-times {
     color: #DC143C;
 }
